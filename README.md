@@ -24,7 +24,7 @@
 | **[Reconnaissance](#recon)**                      |     **10**      |           **9**           |
 | **[Scripting](#scripting)**                       |      **7**      |           **4**           |
 | **[Networking](#networking)**                     |      **7**      |           **6**           |
-| **[Tooling](#tooling)**                           |     **15**      |           **10**          |
+| **[Tooling](#tooling)**                           |     **15**      |           **11**          |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **4**           |
 | **[Steganography](#steganography)**               |      **2**      |           **0**           |
 | **[Web](#web)**                                   |     **15**      |           **10**          |
@@ -197,7 +197,7 @@
 
 - [x] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
-- [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
+- [x] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
 - [x] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
