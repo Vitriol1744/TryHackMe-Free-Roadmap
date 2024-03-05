@@ -86,7 +86,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
 - [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
