@@ -36,7 +36,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
 | **[Reverse Engineering](#reverse-engineering)**   |      **6**      |           **1**           |
 | **[Malware Analysis](#malware-analysis)**         |      **7**      |           **1**           |
-| **[Privilege Escalation](#privesc)**              |     **13**      |                           |
+| **[Privilege Escalation](#privesc)**              |     **13**      |           **2**           |
 | **[Windows](#windows)**                           |      **7**      |                           |
 | **[Active Directory](#active-directory)**         |      **5**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
@@ -366,9 +366,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 
-- [ ] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [x] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 
-- [ ] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+- [x] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 
 - [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
