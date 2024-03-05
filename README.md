@@ -5,13 +5,9 @@
 
 <br/>
 
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
-
-All the rooms mentioned here are absolute free. ENJOY!!
-
 ## Maintainer
 
-> **_This repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/rng70/)_**
+> **_This fork is maintained by [V1tr10l7](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/v1tr10l7/)_**
 
 <br/>
 
@@ -47,7 +43,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
 | **[Misc](#misc)**                                 |     **31**      |           **6**           |
 | **[Special Events](#special-events)**             |      **8**      |           **1**           |
-| **Total Rooms:**                                  |     **378**     |           **96**          |
+| **Total Rooms:**                                  |     **338**     |           **96**          |
 
 ## Intro Rooms
 
