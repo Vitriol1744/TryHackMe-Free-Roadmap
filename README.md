@@ -23,14 +23,14 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Introductory Rooms](#intro-rooms)**            |     **10**      |           **9**           |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **4**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
+| **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **3**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **8**           |
 | **[Scripting](#scripting)**                       |      **8**      |           **4**           |
 | **[Networking](#networking)**                     |      **7**      |           **6**           |
 | **[Tooling](#tooling)**                           |     **16**      |           **8**           |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
-| **[Web](#web)**                                   |     **27**      |           **1**           |
+| **[Web](#web)**                                   |     **22**      |           **11**          |
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |      **5**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
@@ -98,13 +98,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
 - [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
-- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
@@ -264,15 +264,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
 
-- [c] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
+- [x] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
 
 - [x] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
 - [x] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
-
-- [ ] [TryHackMe | Injection](https://tryhackme.com/room/injection)
-
-- [ ] [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)
 
 - [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
