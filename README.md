@@ -96,8 +96,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
 - [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
 - [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
@@ -230,10 +228,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
 
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
-
-- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
-
 - [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
@@ -271,18 +265,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
-
-- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
-
-- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
-
-- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
-
-- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
-
-- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
 ## Android
 
@@ -338,8 +320,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
 
-- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
-
 - [ ] [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
 
 ## PrivEsc
@@ -361,12 +341,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [x] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 
 - [x] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
-
-- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
-
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
-
-- [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
 - [x] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
@@ -409,10 +383,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
 
 - [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
-
-- [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
-
-- [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
 ## BufferOverflow
 
@@ -827,10 +797,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)
 
 - [ ] [TryHackMe | REvil Corp](https://tryhackme.com/room/revilcorp)
-
-- [x] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
-
-- [x] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 
 - [ ] [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
 
