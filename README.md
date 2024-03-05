@@ -34,7 +34,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |      **5**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
-| **[Reverse Engineering](#reverse-engineering)**   |     **10**      |           **1**           |
+| **[Reverse Engineering](#reverse-engineering)**   |      **6**      |           **1**           |
 | **[Malware Analysis](#malware-analysis)**         |      **7**      |           **1**           |
 | **[Privilege Escalation](#privesc)**              |     **13**      |                           |
 | **[Windows](#windows)**                           |      **7**      |                           |
@@ -322,15 +322,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
-- [ ] [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
-
 - [ ] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
 - [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
-
-- [ ] [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
-
-- [ ] [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
 
 - [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster)
 
