@@ -22,7 +22,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |      **9**      |           **9**           |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **4**           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **1**           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **3**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **8**           |
 | **[Scripting](#scripting)**                       |      **8**      |           **4**           |
