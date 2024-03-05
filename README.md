@@ -250,33 +250,27 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
-- [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
+- [x] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
+- [x] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
-- [ ] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
+- [x] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
-- [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
-
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-
-- [ ] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
+- [x] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
 - [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
-- [ ] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
+- [x] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
 
-- [ ] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
+- [x] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
 
-- [ ] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
+- [c] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
 
-- [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
+- [x] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
-- [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
+- [x] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
 - [ ] [TryHackMe | Injection](https://tryhackme.com/room/injection)
-
-- [ ] [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)
 
 - [ ] [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)
 
@@ -286,7 +280,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
