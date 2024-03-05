@@ -106,7 +106,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
-- [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
+- [x] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
@@ -155,8 +155,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [x] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 - [x] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
-
-- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
 
@@ -216,9 +214,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [x] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [x] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
@@ -230,11 +228,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
-
 - [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
-
-- [ ] [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
 
 - [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
@@ -306,8 +300,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)
 
-- [ ] [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
-
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
 ## Wi-Fi Hacking
@@ -376,9 +368,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
-- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [x] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
-- [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- [x] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## Windows
 
@@ -405,8 +397,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
 - [ ] [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
-
-- [ ] [TryHackMe | USTOUN](https://tryhackme.com/room/ustoun)
 
 - [ ] [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
 
@@ -640,8 +630,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | NerdHerd](https://tryhackme.com/room/nerdherd)
 
-- [ ] [TryHackMe | Kubernetes Chall TDI 2020](https://tryhackme.com/room/kuberneteschalltdi2020)
-
 - [ ] [TryHackMe | The Server From Hell](https://tryhackme.com/room/theserverfromhell)
 
 - [ ] [TryHackMe | Jacob the Boss](https://tryhackme.com/room/jacobtheboss)
@@ -724,8 +712,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Retro](https://tryhackme.com/room/retro)
 
-- [ ] [TryHackMe | Jeff](https://tryhackme.com/room/jeff)
-
 - [ ] [TryHackMe | Racetrack Bank](https://tryhackme.com/room/racetrackbank)
 
 - [ ] [TryHackMe | Dave&#39;s Blog](https://tryhackme.com/room/davesblog)
@@ -794,17 +780,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Git Happens](https://tryhackme.com/room/githappens)
 
-- [ ] [TryHackMe | Meltdown Explained](https://tryhackme.com/room/meltdownexplained)
-
-- [ ] [TryHackMe | Splunk](https://tryhackme.com/room/bpsplunk)
-
-- [ ] [TryHackMe | Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)
+- [x] [TryHackMe | Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)
 
 - [ ] [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
 
-- [ ] [TryHackMe | Geolocating Images](https://tryhackme.com/room/geolocatingimages)
+- [x] [TryHackMe | Geolocating Images](https://tryhackme.com/room/geolocatingimages)
 
-- [ ] [TryHackMe | Tor](https://tryhackme.com/room/torforbeginners)
+- [x] [TryHackMe | Tor](https://tryhackme.com/room/torforbeginners)
 
 - [ ] [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
 
@@ -817,8 +799,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)
 
 - [ ] [TryHackMe | Printer Hacking 101](https://tryhackme.com/room/printerhacking101)
-
-- [ ] [TryHackMe | DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
 
 - [ ] [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
 
@@ -848,17 +828,15 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | REvil Corp](https://tryhackme.com/room/revilcorp)
 
-- [ ] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+- [x] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 
-- [ ] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [x] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 
 - [ ] [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
 
 - [ ] [TryHackMe | Conti](https://tryhackme.com/room/contiransomwarehgh)
 
 - [ ] [TryHackMe | Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
-
-- [ ] [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
 
 ## Special Events
 
@@ -875,8 +853,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
 
 - [ ] [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
-
-- [ ] [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
 
 - [ ] [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 
