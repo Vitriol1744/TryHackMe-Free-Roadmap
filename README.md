@@ -33,7 +33,7 @@
 | **[Reverse Engineering](#reverse-engineering)**   |      **6**      |           **1**           |
 | **[Malware Analysis](#malware-analysis)**         |      **6**      |           **1**           |
 | **[Privilege Escalation](#privesc)**              |     **8**       |           **6**           |
-| **[Windows](#windows)**                           |      **12**     |           **2**           |
+| **[Windows](#windows)**                           |      **12**     |           **4**           |
 | **[Active Directory](#active-directory)**         |      **4**      |           **0**           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **2**      |           **0**           |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |           **0**           |
@@ -42,7 +42,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
 | **[Misc](#misc)**                                 |     **31**      |           **6**           |
 | **[Special Events](#special-events)**             |      **8**      |           **1**           |
-| **Total Rooms:**                                  |     **338**     |           **99**          |
+| **Total Rooms:**                                  |     **338**     |           **101**         |
 
 ## Intro Rooms
 
@@ -332,9 +332,9 @@
 
 - [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 - [ ] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 
