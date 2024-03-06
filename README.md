@@ -24,7 +24,7 @@
 | **[Reconnaissance](#recon)**                      |     **10**      |           **9**           |
 | **[Scripting](#scripting)**                       |      **7**      |           **4**           |
 | **[Networking](#networking)**                     |      **7**      |           **6**           |
-| **[Tooling](#tooling)**                           |     **15**      |           **11**          |
+| **[Tooling](#tooling)**                           |     **15**      |           **12**          |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **4**           |
 | **[Steganography](#steganography)**               |      **2**      |           **0**           |
 | **[Web](#web)**                                   |     **15**      |           **10**          |
@@ -43,7 +43,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
 | **[Misc](#misc)**                                 |     **31**      |           **6**           |
 | **[Special Events](#special-events)**             |      **8**      |           **1**           |
-| **Total Rooms:**                                  |     **338**     |           **96**          |
+| **Total Rooms:**                                  |     **338**     |           **98**          |
 
 ## Intro Rooms
 
@@ -187,7 +187,7 @@
 
 - [ ] [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 
-- [ ] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
+- [x] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 
 - [x] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
