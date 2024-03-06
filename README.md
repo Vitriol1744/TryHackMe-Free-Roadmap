@@ -19,7 +19,6 @@
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |      **9**      |           **9**           |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **4**           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **1**           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **5**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **9**           |
 | **[Scripting](#scripting)**                       |      **7**      |           **5**           |
@@ -33,8 +32,8 @@
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |           **1**           |
 | **[Reverse Engineering](#reverse-engineering)**   |      **6**      |           **1**           |
 | **[Malware Analysis](#malware-analysis)**         |      **6**      |           **1**           |
-| **[Privilege Escalation](#privesc)**              |     **10**      |           **6**           |
-| **[Windows](#windows)**                           |      **7**      |           **1**           |
+| **[Privilege Escalation](#privesc)**              |     **8**       |           **6**           |
+| **[Windows](#windows)**                           |      **12**     |           **2**           |
 | **[Active Directory](#active-directory)**         |      **4**      |           **0**           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **2**      |           **0**           |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |           **0**           |
@@ -78,16 +77,6 @@
 - [x] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
 - [x] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
-
-## Windows Fundamentals
-
----
-
-- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
@@ -327,10 +316,6 @@
 
 - [ ] [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
 
-- [ ] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
-
-- [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
-
 - [ ] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 
 - [x] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
@@ -344,6 +329,16 @@
 ## Windows
 
 ---
+
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+
+- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+
+- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+
+- [ ] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
+
+- [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
 - [ ] [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 
