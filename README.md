@@ -22,7 +22,7 @@
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **1**           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **5**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **9**           |
-| **[Scripting](#scripting)**                       |      **7**      |           **4**           |
+| **[Scripting](#scripting)**                       |      **7**      |           **5**           |
 | **[Networking](#networking)**                     |      **7**      |           **6**           |
 | **[Tooling](#tooling)**                           |     **15**      |           **12**          |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **4**           |
@@ -43,7 +43,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
 | **[Misc](#misc)**                                 |     **31**      |           **6**           |
 | **[Special Events](#special-events)**             |      **8**      |           **1**           |
-| **Total Rooms:**                                  |     **338**     |           **98**          |
+| **Total Rooms:**                                  |     **338**     |           **99**          |
 
 ## Intro Rooms
 
@@ -143,7 +143,7 @@
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
-- [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
+- [x] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
