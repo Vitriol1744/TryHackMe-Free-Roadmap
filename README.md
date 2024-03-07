@@ -33,7 +33,7 @@
 | **[Reverse Engineering](#reverse-engineering)**   |      **6**      |           **1**           |
 | **[Malware Analysis](#malware-analysis)**         |      **6**      |           **1**           |
 | **[Privilege Escalation](#privesc)**              |     **8**       |           **6**           |
-| **[Windows](#windows)**                           |      **12**     |           **4**           |
+| **[Windows](#windows)**                           |      **12**     |           **5**           |
 | **[Active Directory](#active-directory)**         |      **4**      |           **0**           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **2**      |           **0**           |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |           **0**           |
@@ -42,7 +42,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
 | **[Misc](#misc)**                                 |     **31**      |           **6**           |
 | **[Special Events](#special-events)**             |      **8**      |           **1**           |
-| **Total Rooms:**                                  |     **338**     |           **101**         |
+| **Total Rooms:**                                  |     **338**     |           **102**         |
 
 ## Intro Rooms
 
@@ -243,7 +243,7 @@
 - [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
 - [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
-
+we
 - [x] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
 - [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
@@ -340,7 +340,7 @@
 
 - [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
-- [ ] [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
+- [x] [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 
 - [ ] [TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
 
