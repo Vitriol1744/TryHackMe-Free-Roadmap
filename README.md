@@ -37,12 +37,12 @@
 | **[Active Directory](#active-directory)**         |      **4**      |           **0**           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **2**      |           **0**           |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |           **0**           |
-| **[Easy CTF](#easy-ctf)**                         |     **58**      |           **18**          |
+| **[Easy CTF](#easy-ctf)**                         |     **58**      |           **19**          |
 | **[Medium CTF](#medium-ctf)**                     |     **73**      |           **0**           |
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
 | **[Misc](#misc)**                                 |     **31**      |           **6**           |
 | **[Special Events](#special-events)**             |      **8**      |           **1**           |
-| **Total Rooms:**                                  |     **338**     |           **103**         |
+| **Total Rooms:**                                  |     **338**     |           **104**         |
 
 ## Intro Rooms
 
@@ -416,7 +416,7 @@ we
 
 - [ ] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
-- [ ] [TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
+- [x] [TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
 
 - [x] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
