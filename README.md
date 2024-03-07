@@ -22,7 +22,7 @@
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **5**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **9**           |
 | **[Scripting](#scripting)**                       |      **7**      |           **5**           |
-| **[Networking](#networking)**                     |      **7**      |           **6**           |
+| **[Networking](#networking)**                     |      **7**      |           **7**           |
 | **[Tooling](#tooling)**                           |     **15**      |           **12**          |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **4**           |
 | **[Steganography](#steganography)**               |      **2**      |           **0**           |
@@ -42,7 +42,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
 | **[Misc](#misc)**                                 |     **31**      |           **6**           |
 | **[Special Events](#special-events)**             |      **8**      |           **1**           |
-| **Total Rooms:**                                  |     **338**     |           **104**         |
+| **Total Rooms:**                                  |     **338**     |           **105**         |
 
 ## Intro Rooms
 
@@ -158,7 +158,7 @@
 
 - [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
-- [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+- [x] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
 
