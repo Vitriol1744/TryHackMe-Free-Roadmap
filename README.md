@@ -33,16 +33,16 @@
 | **[Reverse Engineering](#reverse-engineering)**   |      **6**      |           **1**           |
 | **[Malware Analysis](#malware-analysis)**         |      **6**      |           **1**           |
 | **[Privilege Escalation](#privesc)**              |     **8**       |           **6**           |
-| **[Windows](#windows)**                           |      **12**     |           **5**           |
+| **[Windows](#windows)**                           |      **12**     |           **6**           |
 | **[Active Directory](#active-directory)**         |      **4**      |           **0**           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **2**      |           **0**           |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |           **0**           |
-| **[Easy CTF](#easy-ctf)**                         |     **58**      |           **19**          |
+| **[Easy CTF](#easy-ctf)**                         |     **58**      |           **22**          |
 | **[Medium CTF](#medium-ctf)**                     |     **73**      |           **0**           |
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
 | **[Misc](#misc)**                                 |     **31**      |           **6**           |
 | **[Special Events](#special-events)**             |      **8**      |           **1**           |
-| **Total Rooms:**                                  |     **338**     |           **105**         |
+| **Total Rooms:**                                  |     **338**     |           **109**         |
 
 ## Intro Rooms
 
@@ -243,7 +243,7 @@
 - [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
 - [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
-we
+
 - [x] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
 - [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
@@ -350,7 +350,7 @@ we
 
 - [ ] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
 
-- [ ] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
+- [x] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 
 - [x] [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
@@ -410,7 +410,7 @@ we
 
 - [ ] [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
-- [ ] [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
+- [x] [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
 - [x] [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
 
@@ -426,7 +426,7 @@ we
 
 - [ ] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
-- [ ] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
+- [x] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
 - [x] [TryHackMe | Ice](https://tryhackme.com/room/ice)
 
@@ -498,7 +498,7 @@ we
 
 - [ ] [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
 
-- [ ] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
+- [x] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
 
 - [ ] [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 
